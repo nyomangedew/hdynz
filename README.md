@@ -1,1 +1,1 @@
-# hdynz
+# kasir_sederhana
